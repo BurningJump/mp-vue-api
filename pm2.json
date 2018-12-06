@@ -1,0 +1,15 @@
+{
+  "apps": [{
+    "name": "mp-vue-api",
+    "script": "production.js",
+    "cwd": "E:\demo\mp-vue-api",
+    "exec_mode": "fork",
+    "max_memory_restart": "1G",
+    "autorestart": true,
+    "node_args": [],
+    "args": [],
+    "env": {
+      
+    }
+  }]
+}
